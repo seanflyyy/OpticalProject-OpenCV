@@ -1,3 +1,6 @@
+
+https://user-images.githubusercontent.com/50956270/110584876-e321d200-81aa-11eb-82fe-6d694dd5f76b.mp4
+
 # OpticalProject
 Computer visoin project meant for the identifying, tracking and calculating of the coordinates of the ends of the optical fiber cables to be connected with one another. 
 
