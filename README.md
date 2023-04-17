@@ -1,10 +1,9 @@
-
-Video of working code for 4_points.py
-
-https://user-images.githubusercontent.com/50956270/110584876-e321d200-81aa-11eb-82fe-6d694dd5f76b.mp4
-
 # OpticalProject
 Computer vision project meant for the identifying, tracking and calculating the coordinates of the ends of the optical fiber cables to be connected with one another. 
+
+## Video of working code for 4_points.py
+
+https://user-images.githubusercontent.com/50956270/110584876-e321d200-81aa-11eb-82fe-6d694dd5f76b.mp4
 
 ## How to run the program 
 - The latest python program is the 4_points.py program
